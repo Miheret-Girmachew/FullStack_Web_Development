@@ -1,0 +1,137 @@
+!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Diet Plan</title>
+  </head>
+  <body>
+    <h1><u>Weekly Diet Plan</u></h1>
+    <h2>1- Monday</h2>
+    <ul>
+      <li>Breakfast</li>
+      <ul>
+        <li>Orange</li>
+        <li>Coffee</li>
+      </ul>
+      <li>Lunch</li>
+      <ul>
+        <li>Shiro</li>
+        <li>Salad</li>
+      </ul>
+      <li>Dinner</li>
+      <ul>
+        <li>Ginger Tea</li>
+        <li>Orange Juice</li>
+      </ul>
+    </ul>
+    <h2>2- Tuesday</h2>
+    <ul>
+      <li>Breakfast</li>
+      <ul>
+        <li>Orange</li>
+        <li>Coffee</li>
+      </ul>
+      <li>Lunch</li>
+      <ul>
+        <li>Shiro</li>
+        <li>Salad</li>
+      </ul>
+      <li>Dinner</li>
+      <ul>
+        <li>Ginger Tea</li>
+        <li>Orange Juice</li>
+      </ul>
+    </ul>
+    <h2>3- Wednesday</h2>
+    <ul>
+      <li>Breakfast</li>
+      <ul>
+        <li>Orange</li>
+        <li>Coffee</li>
+      </ul>
+      <li>Lunch</li>
+      <ul>
+        <li>Shiro</li>
+        <li>Salad</li>
+      </ul>
+      <li>Dinner</li>
+      <ul>
+        <li>Ginger Tea</li>
+        <li>Orange Juice</li>
+      </ul>
+    </ul>
+    <h2>4- Thursday</h2>
+    <ul>
+      <li>Breakfast</li>
+      <ul>
+        <li>Orange</li>
+        <li>Coffee</li>
+      </ul>
+      <li>Lunch</li>
+      <ul>
+        <li>Shiro</li>
+        <li>Salad</li>
+      </ul>
+      <li>Dinner</li>
+      <ul>
+        <li>Ginger Tea</li>
+        <li>Orange Juice</li>
+      </ul>
+    </ul>
+    <h2>5- Friday</h2>
+    <ul>
+      <li>Breakfast</li>
+      <ul>
+        <li>Orange</li>
+        <li>Coffee</li>
+      </ul>
+      <li>Lunch</li>
+      <ul>
+        <li>Shiro</li>
+        <li>Salad</li>
+      </ul>
+      <li>Dinner</li>
+      <ul>
+        <li>Ginger Tea</li>
+        <li>Orange Juice</li>
+      </ul>
+    </ul>
+    <h2>6- Saturday</h2>
+    <ul>
+      <li>Breakfast</li>
+      <ul>
+        <li>Orange</li>
+        <li>Coffee</li>
+      </ul>
+      <li>Lunch</li>
+      <ul>
+        <li>Shiro</li>
+        <li>Salad</li>
+      </ul>
+      <li>Dinner</li>
+      <ul>
+        <li>Ginger Tea</li>
+        <li>Orange Juice</li>
+      </ul>
+    </ul>
+    <h2>7- Sunday</h2>
+    <ul>
+      <li>Breakfast</li>
+      <ul>
+        <li>Orange</li>
+        <li>Coffee</li>
+      </ul>
+      <li>Lunch</li>
+      <ul>
+        <li>Shiro</li>
+        <li>Salad</li>
+      </ul>
+      <li>Dinner</li>
+      <ul>
+        <li>Ginger Tea</li>
+        <li>Orange Juice</li>
+      </ul>
+    </ul>
+  </body>
+</html>
