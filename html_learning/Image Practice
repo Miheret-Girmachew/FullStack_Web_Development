@@ -22,8 +22,8 @@
   <body>
     <h1>My First HTML Document</h1>
     <h2>First Image</h2>
-    <img src="images/ImageOne.png" height="400px" alt="Evangadi Logo" />
+    <img src="images/ImageOne.png"  alt="Evangadi Logo" />
     <h2>Second Image</h2>
-    <img src="images/ImageTwo.jpeg" height="400px" alt="Evangadi Courses" />
+    <img src="images/ImageTwo.jpeg"  alt="Evangadi Courses" />
   </body>
 </html>
