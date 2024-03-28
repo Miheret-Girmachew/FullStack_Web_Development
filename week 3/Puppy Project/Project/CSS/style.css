@@ -1,0 +1,82 @@
+img{
+    max-width: 100%;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#theHeader{
+    text-align: center;
+    color: white;
+    height: 60px;
+    padding-top: 20px;
+}
+
+.Blue{
+    background-color: rgb(61, 61, 129);
+}
+
+.banner img{
+    width : 100%;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.puppies-box{
+    display: flex;
+}
+.puppies-divs{
+    width: 960px;
+    margin: 60px;
+    margin-left: 200px;
+}
+.puppyText{
+    background-color: rgb(219, 37, 82);
+    margin: 0 1%;
+    border-left: 5px solid violet;
+}
+
+.puppy1,
+.puppyText,
+.puppy2{
+    width: 310px;
+}
+
+.missing{
+    font-size: 44px;
+    padding: 86px 50px 45px;
+    text-align: center;
+}
+
+.more-puppies-images{
+    display: flex;
+}
+
+.more-puppies-images{
+    margin-top: 50px;
+    margin-right: 60px;
+    margin-left: 200px;
+}
+.more-puppies-div h2{
+    text-align: center;
+    font-size: 40px;
+}
+.first-puppy{
+    margin-right: 30px;
+    width: auto;
+}
+.second-puppy{
+    margin-left: 30px;
+    width: auto;
+}
+footer{
+    margin-top: 75px;
+    padding-top: 100px;
+    padding-bottom: 125px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
