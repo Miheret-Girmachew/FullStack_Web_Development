@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    border: 3px solid black;
+    width: 100%;
+}
+.banner{
+    background-color: #ED1C24;
+    padding: 30px 0;
+    border: 3px solid black;
+
+}
+.banner ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    text-align: center;
+    margin: 0 auto;
+    width: 80%;
+}
+.banner ul li {
+    border: 3px solid black;
+    padding: 10px;
+
+}
+.banner ul li a{
+    text-decoration: none;
+    color: black;
+}
+.banner ul li:last-child{
+    display: none;
+}
+.Text{
+    display: none;
+}
+.Main-Holder{
+    width: 90%;
+    margin: auto;
+}
+.Left-side{
+    background-color:#ffc90e;
+    width: 100% ;
+    display: flex;
+    justify-content: space-around;
+    border: 3px solid black;
+}
+.Left-side .left-top,
+.Left-side .left-bottom{
+    background-color: #b5e61d;
+    height: 319px;
+    width:45%;
+    margin: auto;
+    border: 3px solid black;
+}
+.Right-side{
+    width: 422px;
+    height:515px ;
+    border: 3px solid black;
+    margin: 0 auto;
+}
+.Top-inner{
+    background-color: #c3c3c3;
+    border: 3px solid black;
+    width: 301px;
+    height: 425px;
+    margin: 40px auto ;
+}
+
+.Right-side .bottom{
+    display: none;
+    
+}
+.address{
+    display: none;
+}
+.last-element{
+    border: 3px solid black;
+    background-color:#99d9ea ;
+    text-align: center;
+    margin-top: 20px;
+
+}
+.Contact{
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+}
+@media(min-width:768px){
+    .banner ul li:last-child{
+        display: block;
+    }
+    .banner{
+        background-color:#FF7F27 ;
+        padding: 30px 0;
+        border: 3px solid black;
+    
+    }
+    .banner ul li {
+        border: 5px solid #00A2E8 ;
+        padding: 10px;
+    }
+    .Text{
+        display: block;
+        border: 8px solid #FFAEC8;
+        text-align: center;
+        font-size: 30px;
+        padding: 15px ;
+        width: 50%;
+        margin: 15px auto;
+    }
+    .Main-Holder{
+        background-color: #ffc90e;
+        display: flex;
+        margin: auto;
+    }
+    .Left-side{
+        margin: 10px auto;
+        display: flex;
+        flex: 0 0 48%;
+        flex-direction: column;
+        background-color: #c3c3c3;
+        border: 5px solid #67f00c !important;
+    }
+    .Left-side .left-top,
+    .Left-side .left-bottom{
+        display: flex;
+        flex: 0 0 50%;
+        width: 90%;
+        margin: 10px auto;
+    }
+    
+    .Right-side .bottom{
+        display: flex;
+        
+    }
+}
+

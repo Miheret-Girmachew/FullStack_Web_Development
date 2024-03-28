@@ -1,0 +1,106 @@
+img{
+    width:100%;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 100%; 
+     
+    margin: 0 auto;
+}
+body{
+    font-family: "Roboto", sans-serif;
+}
+.Blue{
+    background-color: #004267;
+}
+header{
+    text-align: center;
+    color: white;
+    height: 60px;
+    padding-top: 20px;
+    padding-bottom: 2%;
+    width:100%;
+    font-size: 2vw;
+}
+.first, .third, .MoreFirst, .MoreSecond{
+    margin-left:10%;
+    margin-right: 10%;
+    margin-top: 30px;
+}
+.Text{
+    display: none;
+}
+.MoreBox h2{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+
+footer{
+    margin-top: 75px;
+    padding-top: 80px;
+    padding-bottom: 90px;
+    color: white;
+    text-align: center;
+    font-size: 3.5vw;
+}
+
+@media(min-width:768px){
+    .ThreePuppies{
+        display: flex;
+    }
+    .puppyContainer1{
+        width:80%;
+        margin: 50px auto;
+    }
+    
+    .first, .third, .MoreFirst, .MoreSecond{
+    margin-left:0;
+    margin-right: 0;
+    margin-top: 0;
+}
+    .SecondText{
+        background-color: rgb(219, 37, 82);
+        width:33%;
+        margin: 0 1%;
+        height: 26vw;
+    }
+    .first, .third{
+        width : 33%;
+    }
+    
+    .Text{
+        font-size: 3.5vw;
+        padding: 25% 10% 5%;
+        text-align: center;
+        color: black;
+        display: flex;
+    }
+    .MorePuppies{
+        display: flex;
+        justify-content: space-between;
+        width:80%;
+        margin: 45px auto;
+    }
+    
+    .MoreBox h2{
+        text-align: center;
+        font-size: 3.5vw;
+    }
+    .MoreFirst {
+        margin-right: 0;
+        margin-left: 0;
+        width: auto;
+    }
+
+    .MoreSecond {
+        width: auto;
+        margin-right: 0;
+        margin-left: 5%;
+    }
+}
